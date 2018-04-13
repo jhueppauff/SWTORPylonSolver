@@ -1,3 +1,3 @@
 # SWTORPylonSolver
 
-![Screenshot of the Pylon Solver](Media/pylonSolver.png "MainPage")
+![Screenshot of the Pylon Solver](/Media/pylonSolver.PNG "MainPage")
