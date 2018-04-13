@@ -9,3 +9,4 @@ A Solver, I wrote plenty of years ago, for the puzzel of the Eternity Vault Raid
 - Download/Clone the Repository
 - Open the HTML File SWTORPylonSolver\Solver\pylon.html
 - Input the Colors from the Pylons
+- Press the Solve Button
